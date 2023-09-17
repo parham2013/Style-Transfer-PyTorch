@@ -1,2 +1,1 @@
-I'm trying to figure out what is style transfer.
-Note that we will be using transfer learning in this project.
+In this project we used transfer learning with vgg19 for style transfer of starry night image and a city image, theres a short video exported to demonstrate timelapse of the changes, further iterations require more time and processing power.
